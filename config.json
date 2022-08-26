@@ -1,0 +1,30 @@
+{
+    "token": "",
+    "commands": [
+        {
+            "name": "cmdName",
+            "description": "cmdDescription",
+            "options": [
+                {
+                    "type": "CHANNEL",
+                    "name": "",
+                    "description": "",
+                    "required": true
+                },
+                {
+                    "type": "NUMBER",
+                    "name": "",
+                    "description": "",
+                    "required": false
+                },
+                {
+                    "type": "STRING",
+                    "name": "",
+                    "description": "",
+                    "required": false
+                }
+            ]
+        }
+    ],
+    "debug": true
+}
